@@ -1,4 +1,4 @@
-# wavefront_characterization
+# Wavefront characterization with `psf_utils`
 
 A set of useful functions for wavefront characterization for square aperture optics like multilayer Laue lenses (MLLs). 
 
