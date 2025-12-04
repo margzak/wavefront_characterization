@@ -15,4 +15,8 @@ The example of typical wavefront characterization workflow is shown in the `exam
 
 4. Creating an encircled energy plot for the stack of PSFs for different defoci. 
 
+## Installation
 
+```bash 
+pip install git+https://github.com/margzak/psf_utils.git
+```
