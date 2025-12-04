@@ -1,19 +1,9 @@
 import numpy as np
 import os
 import matplotlib.pyplot as plt
-from matplotlib.widgets import Slider
-from tqdm.notebook import tqdm, trange
-
 from multiprocessing import Pool, cpu_count
 from itertools import repeat
-import time
-
 from scipy.optimize import curve_fit, minimize
-
-import matplotlib.pyplot as plt
-from matplotlib import cm
-from mpl_toolkits.mplot3d import Axes3D
-
 from scipy.ndimage import map_coordinates
 
 
